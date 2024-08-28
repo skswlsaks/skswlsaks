@@ -5,7 +5,7 @@ Full-Stack developer based in Seoul, South Korea.
 - 💼 6 years of experience as Full-Stack developer (including some on-prem and cloud experiences as well)
 - 🖥️ Love with programming
 - 💹 Recently, working on crypto trading algorithms, trying to make 💸
-- 🎨 Art Lover
+- ☕️ Coffee enthusiast
 - 🥃 Whisky Connoisseur
 
 
