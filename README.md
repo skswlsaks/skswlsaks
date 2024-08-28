@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Jin Man Park. You can call me Jin. 🌈
 
-<!--
-**skswlsaks/skswlsaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack developer based in Seoul, South Korea.
 
-Here are some ideas to get you started:
+- 💼 6 years of experience as Full-Stack developer (including some on-prem and cloud experiences as well)
+- 🖥️ Love with programming
+- 💹 Recently, working on crypto trading algorithms, trying to make 💸
+- 🎨 Art Lover
+- 🥃 Whisky Connoisseur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me
+<a href="https://www.linkedin.com/in/skswlsaks/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bymi15" height="30" width="40" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si1kdd&count_private=true)
+
+<!-- ![si1kdd's github stats](https://github-readme-stats.vercel.app/api?username=si1kdd&show_icons=true&count_private=true&line_height=30) --!>
