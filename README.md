@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jin Man Park. You can call me Jin. 🌈
+## Hi 👋, I'm Jin Man, Park. 🌈
 
 Full-Stack developer based in Seoul, South Korea.
 
